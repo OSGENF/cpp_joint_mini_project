@@ -2,7 +2,7 @@
 //  main.cpp
 //  cpp_joint_mini_project
 //
-//  Created by Hugo on 11/30/13.
+//  Created by Hugo and Sebastian on 11/30/13.
 //  Copyright (c) 2013 Golf Squad. All rights reserved.
 //
 
